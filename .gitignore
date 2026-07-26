@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+logs/
+reports/
+*.log
+*.log.gz
+crash-*.txt
+.env
+
