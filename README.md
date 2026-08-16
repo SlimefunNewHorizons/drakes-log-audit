@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DrakesCraft-Labs/drakes-log-audit/main/banner.svg" width="100%" alt="Drakes Log Audit animated banner" />
+</p>
+
 # Drakes Log Audit
 
 Auditoría reproducible para logs de Minecraft/Paper: descarga artefactos desde
