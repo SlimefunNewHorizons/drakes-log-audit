@@ -8,3 +8,7 @@ reports/
 crash-*.txt
 .env
 
+
+target/
+build/
+.gradle/
